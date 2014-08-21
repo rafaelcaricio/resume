@@ -11,9 +11,9 @@ Rafael Caricio
 Summary
 -------
 
-I'm an experienced full-stack web developer with passion for software development in general. I have been working for more than 7 years in the area and have deployed to production several projects for many companies from Europe, USA, and South America. In projects, I successfully work within a group as well as by myself.
+I'm an experienced full-stack web developer with passion for software development in general. I have been working for more than 7 years in the area and have deployed to production several projects for many companies based in Europe, USA, and South America. In projects, I successfully work within a group as well as by myself. I am self motivated and always focused on achieving the best results.
 
-I am self motivated and always focused on achieving the best results.  I'm passionate about testing and automated tools to improve my and my team's productivity. I have helped several open source projects like PIP (community most used Python Package Manager), PyVows (BDD tool for Python), Thumbor (Imaging Manipulation Server), and many others.
+I'm passionate about testing and automated tools to improve my and my team's productivity. I have helped several open source projects like PIP (community most used Python Package Manager), PyVows (BDD tool for Python), Thumbor (Imaging Manipulation Server), and many others.
 
 
 Technical experience
