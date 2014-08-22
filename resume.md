@@ -58,7 +58,7 @@ Education
 * **[Universidade Federal de Pernambuco](http://www2.cin.ufpe.br/)** (2009 - 2010)
   *MSc Software Engineering*
 
-  Althrought I have finished all the disciplines with high grades, I never wrote the final thesis. By the time to write the thesis I had the most stressful period in my company and I had to choose on what to focus. I had chosen to dedicate myself in my professional career and develop the product we had created. This degree is *incomplete*.
+  Althrought I have finished all the disciplines with high grades, I never wrote the final thesis. By the time to write the thesis I had the most stressful period in my company and I had to choose on what to focus. I had chosen to dedicate myself to my professional career and develop the product we had created. This degree is *incomplete*.
 
   - I worked as a teacher assistant in the discipline of Laboratory of Oriented Programming.
 
