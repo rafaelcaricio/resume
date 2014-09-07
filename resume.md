@@ -29,7 +29,7 @@ Technical experience
   - Test-Focused Development, and Agile.
 
 
-Carrer
+Career
 ------
 
 * **[Lunar Logic](http://lunarlogic.io/)** (01.2013 - Present)
@@ -49,7 +49,7 @@ Carrer
 
 * **[Meantime Mobile Creations](http://www.meantime.com.br)** (08.2008 - 06.2009)
   * **Software Engineer** - Recife, Brazil
-    - Our team were focused on development of a web gaming platform. We focused on development of the backend API for the online games in Java.
+    - Our team was focused on development of a web gaming platform. We focused on development of the backend API for the online games in Java.
 
 
 Education
@@ -58,7 +58,7 @@ Education
 * **[Universidade Federal de Pernambuco](http://www2.cin.ufpe.br/)** (2009 - 2010)
   *MSc Software Engineering*
 
-  Althrought I have finished all the disciplines with high grades, I never wrote the final thesis. By the time to write the thesis I had the most stressful period in my company and I had to choose on what to focus. I had chosen to dedicate myself to my professional career and develop the product we had created. This degree is *incomplete*.
+  Although I have finished all the disciplines with high grades, I never wrote the final thesis. When I had to write my thesis I also had the most stressful period in my company, so I had to choose on what to focus. I had chosen to dedicate myself to my professional career and develop the product we had created. This degree is *incomplete*.
 
   - I worked as a teacher assistant in the discipline of Laboratory of Oriented Programming.
 
@@ -66,9 +66,9 @@ Education
 * **[Faculdade Integrada do Recife](http://portal.estacio.br/unidades/faculdade-estacio-do-recife.aspx)** (2005 - 2008)
   *BSc Information Systems for Software Engineering*
 
-  I was a very disciplined student with good grades and always focused on my studies. All teaches used to like me because of my dedication and discipline. I was invited by the teachers to become mentor of few disciplines during my graduation and I have helped many students with their difficulties during the studies.
+  I was a very disciplined student with good grades and always focused on my studies. All teachers liked me because of my dedication and discipline. I was invited by the teachers to become mentor of a few disciplines during my graduation and I have helped many students with their difficulties during the studies.
 
-  - I worked as teacher assistant of Discrete Mathematics during the period of September/2005 until November/2005.
+  - I worked as a teacher assistant of Discrete Mathematics between September/2005 and November/2005.
 
 
 Languages
