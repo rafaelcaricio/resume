@@ -78,6 +78,23 @@ Languages
 * **Portuguese** (Native speaker)
 
 
+Principal open-source contributions
+-----------------------------------
+
+* [Gradient Inspector Extension](https://chrome.google.com/webstore/detail/css-gradient-inspector/blklpjonlhpakchaahdnkcjkfmccmdik): Extends the Developer Tools, adding a sidebar that displays information about the gradients applied to the inspected DOM element. Project uses cutting-edge web standards like the `template` element and html imports. Creator and principal maintainer of the project on [GitHub](https://github.com/rafaelcaricio/gradient-inspector).
+
+* [Gradient Parser](https://github.com/rafaelcaricio/gradient-parser): Parse CSS3 gradient definition and returns AST object. Written using VanillaJS and do not have any dependencies of external libraries that matches with my interest in writting parsers and interpreters. Creator and principal maintainer.
+
+* [PIP](https://github.com/pypa/pip): Python package manager. I had some pull requests accepted for new features like [`pip list`](https://github.com/pypa/pip/pull/675) and [`pip status`](https://github.com/pypa/pip/pull/664).
+
+* [Thumbor](https://github.com/thumbor/thumbor): Imaging service. It enables on-demand crop, resizing and flipping of images. I have worked in the initial idea of the project and made some contributions while working at Globo.com.
+
+* I also like to work in toy projects to understand better new technologies or play with some new ideas. As interesting projects I can mention:
+  - [Molecular](https://github.com/rafaelcaricio/molecular): Light-weight bidirectional data binding rendering for HTML5 template's tag.
+  - [CSSel](https://github.com/rafaelcaricio/CSSel): An example of carrossel only with CSS.
+  - [CSS_badges](https://github.com/LunarLogic/css_badges): An CSS experiment with single div.
+
+
 Recommendations
 ---------------
 
